@@ -2,11 +2,11 @@
 
 Simple [om-next](https://github.com/omcljs/om/wiki/Quick-Start-%28om.next%29) example to tv shows.
  
-Load "state" into "reconciler" using xhr data.
+Load "state" into "reconciler" using ":remote" xhr data.
  
 Expand to uses queries. 
  
-[1.0.0-alpha17](https://clojars.org/org.omcljs/om)
+[1.0.0-alpha20](https://clojars.org/org.omcljs/om)
 
 ## Overview
 

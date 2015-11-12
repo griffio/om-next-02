@@ -88,8 +88,6 @@
 (def reconciler
   (om/reconciler
     {:state      (atom {})
-     :normalize  true
-     :merge-tree (fn [a b] (merge a b))
      :parser     (om/parser {:read reading :mutate mutating})
      :send       (util/reconciler-send "/tv-shows.json")}))
 

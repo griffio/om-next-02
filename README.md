@@ -4,9 +4,9 @@ Simple [om-next](https://github.com/omcljs/om/wiki/Quick-Start-%28om.next%29) ex
  
 Load "state" into "reconciler" using ":remote" xhr data.
  
-Expand to uses queries. 
+Expand to use queries.
  
-[1.0.0-alpha20](https://clojars.org/org.omcljs/om)
+[1.0.0-alpha22](https://clojars.org/org.omcljs/om)
 
 ## Overview
 
